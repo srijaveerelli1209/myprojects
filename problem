@@ -1,0 +1,13 @@
+# pretty_no = input("Enter the pretty number: ") 
+# number = input("Enter the number to check: ")   
+
+# if number.startswith(pretty_no) or number.endswith(pretty_no):
+#     print("yes")
+# else:
+#     print("no")
+
+no=int(input("Enter no to check"))
+if no%10==7 or no/10==7:
+    print("lucky no")
+     else:
+        print("not lucky"))
