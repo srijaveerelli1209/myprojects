@@ -1,0 +1,48 @@
+.container
+{
+    width: 100%;
+    height: 100%;
+    background-color: hsl(149, 77%, 54%);
+}
+.header
+{
+    width: 100%;
+    height: 30%;
+    background-color:black;
+}
+.header h1{
+    color:aliceblue;
+    text-align: center;
+    padding: 25px;
+    font-size: 50px;
+}
+li{
+    list-style-type: none;
+    float: left;
+}
+a{
+    color: aliceblue;
+    font-size: 25px;
+    padding: 25px;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+#menubar
+{
+    width: 100%;
+    height: 30%;
+    background-color: gold;
+
+}
+.maincontent{
+    width: 100%;
+    height: 30%;
+}
+.footer
+{
+    width: 100%;
+    height: 30%;
+    background-color: hsl(348, 77%, 54%);
+}
